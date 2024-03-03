@@ -8,6 +8,8 @@ engine_daemon_container_states_containers{state="running"}
 
 up{region="IN"}
 
+ss
+
 sum ( up{region="IN"} )
 
 # range vector example
